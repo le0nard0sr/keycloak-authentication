@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7a8bc63-6c53-4a0d-a37e-c1035b1411a3" name="Changes" comment="" />
+    <list default="true" id="91da32eb-6be1-4dc6-9774-553c1885066d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docker/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/keycloak/providers/kafka-clients-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/keycloak/themes/login/messages/messages_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/keycloak/themes/login/resources/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/keycloak/themes/login/resources/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/keycloak/themes/login/theme.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,14 +20,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2kFJ9H5bQpI3H9ubjkmSm5s1blh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
@@ -29,11 +39,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f7a8bc63-6c53-4a0d-a37e-c1035b1411a3" name="Changes" comment="" />
-      <created>1722802852168</created>
+      <changelist id="91da32eb-6be1-4dc6-9774-553c1885066d" name="Changes" comment="" />
+      <created>1722873261051</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1722802852168</updated>
+      <updated>1722873261051</updated>
     </task>
     <servers />
   </component>

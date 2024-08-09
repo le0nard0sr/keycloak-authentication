@@ -9,7 +9,7 @@
 }
 
 .login-pf body {
-    background-image: url('startseite.jpg'),
+    background-image: url('../img/main-image-trt17.jpg'),
     linear-gradient(135deg, var(--default-background-color) 0%, #A96699FF 100%);
 }
 

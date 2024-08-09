@@ -1,0 +1,52 @@
+@import "../../../styles/variables.scss";
+
+main {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+
+  section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+
+  .main-section {
+    gap: 1rem;
+    flex-grow: 1;
+    background-color: $gray-background;
+  }
+
+  .form-section {
+    flex-grow: 0.3;
+    padding: 0 2rem;
+    gap: 2rem;
+
+    h2 {
+      font-size: 20px;
+      font-weight: bold;
+    }
+
+    button {
+      width: 100%;
+      border-radius: 0.5rem;
+      font-size: 1rem;
+      font-weight: 500;
+      border: none;
+      background-color: transparent;
+      padding: 0.875rem 1.5rem;
+      cursor: pointer;
+
+        &.btn-primary {
+          background-color: $primary-color;
+          color: white;
+        }
+
+    }
+  }
+}
+

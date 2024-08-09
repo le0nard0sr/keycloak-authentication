@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Silent Check SSO</title>
+</head>
+<body>
+  <script>
+    console.log("Iframe carregado, enviando mensagem para o pai.");
+    parent.postMessage(location.href, location.origin);
+    console.log("Silent Check SSO iframe carregado.");
+  </script>
+</body>
+</html>
